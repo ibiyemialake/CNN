@@ -1,0 +1,1 @@
+This project is a convolutional neural network model carried out on Nigerian Songs.
